@@ -1,0 +1,75 @@
+body {
+    overflow-x: hidden;
+}
+
+.big-container {
+    display: flex;
+    background-color: #F2F1FA;
+    height: 700px;
+}
+
+.precision {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.big-container-padding {
+    padding-top: 60px;
+}
+
+.normal-container {
+    display: flex;
+    margin: auto;
+    height: 500px;
+    align-items: center;
+}
+
+body h2 {
+    padding: 50px;
+    text-align: center;
+}
+
+.bagian-1 {
+    background-color: none;
+}
+
+.normal-container-img {
+    width: 300px;
+    border-radius: 32px;
+}
+
+.content-fabia {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.content-fabia img {
+    border-radius: 16px;
+}
+
+.bagian-edukasi {
+    padding: 30px 20px;
+    background-color: none;
+}
+
+.gedung-uti {
+    width: 600px;
+    height: 650px;
+    border-radius: 12px;
+    background-color: #F2F1FA;
+}
+
+.gedung-uti h3 {
+    padding-top: 32px;
+}
+
+.kampus-uti {
+    margin-top: 32px;
+}
+
+.hobi-fabia {
+    padding-top: 90px;
+    padding-bottom: 50px;
+    background-color: #F2F1FA;
+}
